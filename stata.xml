@@ -1,0 +1,9 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Stata</os:ShortName>
+<os:Description>Stata Help</os:Description>
+<os:InputEncoding>UTF-8</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAACiSURBVDhPnZMBDoMwDAP7sLEvwUvGftzFSw1uEyHKSRZ1mrhUglKNZdvrspq2r0vXWmv1t4kUbqLYDdxQF6AncJNknjUPgGSYmyTz6AdlHITXOwI2E/aC8wp8auDhk7o9uwCFmyT4EJA0KPMBg3+tn7ZyQgC/geNbsAauMcyBUR4gaST4ywAxJPjpN7CacitgWu0Q/xsRQmXNo9ow+Ac8p9Yf4D/nTTpuQcIAAAAASUVORK5CYII=</os:Image>
+<UpdateInterval>1</UpdateInterval>
+<SearchForm>https://stata.com/</SearchForm>
+<os:Url type="text/html" method="GET" template="http://www.stata.com/help.cgi?{searchTerms}"></os:Url>
+</SearchPlugin>
