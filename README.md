@@ -5,7 +5,11 @@ Firefox search plugin for the [Stata help](http://www.stata.com/help.cgi?content
 
 	%AppData%\Mozilla\Firefox\Profiles\
 
-click on the subfolder of your profile, go to searchplugins\ and copy the file stata.xml there.
+click on the subfolder of your profile, go to searchplugins\
+
+	%AppData%\Mozilla\Firefox\Profiles\ ... \searchplugins\
+
+and copy the file stata.xml there.
 
 
 ## Info
